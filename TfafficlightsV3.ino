@@ -39,50 +39,50 @@ void loop() {
   digitalWrite(LEDRed2, HIGH);    //ไฟแดงทางที่ 2 ติด
   digitalWrite(LEDRed3, HIGH);    //ไฟแดงทางที่ 3 ติด
   digitalWrite(LEDRed4, HIGH);    //ไฟแดงทางที่ 4 ติด
-  delay(3000);                    //เป็นเวลา 3 วินาที 
+  delay(20000);                   //เป็นเวลา 20 วินาที 
   digitalWrite(LEDGreen1, LOW);   //ไฟเขียวทางที่ 1 ดับ
   digitalWrite(LEDRed2, LOW);     //ไฟแดงทางที่ 2 ดับ
 
   digitalWrite(LEDYello1, HIGH);  //ไฟเหลืองทางที่ 1 ติด
   digitalWrite(LEDYello2, HIGH);  //ไฟเหลืองทางที่ 2 ติด
-  delay(1000);                    //เป็นเวลา 1 วินาที
+  delay(3000);                    //เป็นเวลา 3 วินาที
   digitalWrite(LEDYello1, LOW);   //ไฟเหลืองทางที่ 1 ดับ
   digitalWrite(LEDYello2, LOW);   //ไฟเหลืองทางที่ 2 ดับ
 
   digitalWrite(LEDRed1, HIGH);    //ไฟแดงทางที่ 1 ติด
   digitalWrite(LEDGreen2, HIGH);  //ไฟเขียวทางที่ 2 ติด
-  delay(3000);
+  delay(20000);                   //เป็นเวลา 20 วินาที 
   digitalWrite(LEDGreen2, LOW);   //ไฟเขียวทางที่ 2 ดับ
   digitalWrite(LEDRed3, LOW);     //ไฟแดงทางที่ 3 ดับ
 
   digitalWrite(LEDYello2, HIGH);  //ไฟเหลืองทางที่ 2 ติด
   digitalWrite(LEDYello3, HIGH);  //ไฟเหลืองทางที่ 3 ติด
-  delay(1000);
+  delay(3000);                    //เป็นเวลา 3 วินาที 
   digitalWrite(LEDYello2, LOW);   //ไฟเหลืองทางที่ 2 ดับ
   digitalWrite(LEDYello3, LOW);   //ไฟเหลืองทางที่ 3 ดับ
 
   digitalWrite(LEDRed2, HIGH);    //ไฟแดงทางที่ 2 ติด
   digitalWrite(LEDGreen3, HIGH);  //ไฟเขียวทางที่ 3 ติด
-  delay(3000);
+  delay(20000);                   //เป็นเวลา 20 วินาที 
   digitalWrite(LEDGreen3, LOW);   //ไฟเขียวทางที่ 3 ดับ
   digitalWrite(LEDRed4, LOW);     //ไฟแดงทางที่ 3 ดับ
 
   digitalWrite(LEDYello3, HIGH);  //ไฟเหลืองทางที่ 3 ติด
   digitalWrite(LEDYello4, HIGH);  //ไฟเหลืองทางที่ 4 ติด
-  delay(1000);
+  delay(3000);                    //เป็นเวลา 3 วินาที 
   digitalWrite(LEDYello3, LOW);   //ไฟเหลืองทางที่ 3 ดับ
   digitalWrite(LEDYello4, LOW);   //ไฟเหลืองทางที่ 4 ดับ
 
   digitalWrite(LEDRed3, HIGH);    //ไฟแดงทางที่ 2 ติด
   digitalWrite(LEDGreen4, HIGH);  //ไฟเขียวทางที่ 3 ติด
-  delay(3000);
+  delay(20000);                   //เป็นเวลา 20 วินาที 
   digitalWrite(LEDGreen4, LOW);   //ไฟเขียวทางที่ 4 ดับ
   //digitalWrite(LEDRed3, LOW);
   digitalWrite(LEDRed1, LOW);   //ไฟแดงทางที่ 3 ดับ
 
   digitalWrite(LEDYello1, HIGH);  //ไฟเหลืองทางที่ 3 ติด
   digitalWrite(LEDYello4, HIGH);  //ไฟเหลืองทางที่ 4 ติด
-  delay(1000);
+  delay(3000);                    //เป็นเวลา 3 วินาที 
   digitalWrite(LEDYello1, LOW);   //ไฟเหลืองทางที่ 3 ดับ
   digitalWrite(LEDYello4, LOW);   //ไฟเหลืองทางที่ 4 ดับ
   
